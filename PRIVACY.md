@@ -1,0 +1,1 @@
+The extension does not send any data to the developer or other companies, whatsoever. All data remains locally, on the user's device.
